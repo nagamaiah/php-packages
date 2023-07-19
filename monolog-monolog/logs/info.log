@@ -1,0 +1,5 @@
+[2023-05-01T11:32:15.522648+05:30] name.INFO: This is a sample info [] []
+[2023-05-01T11:34:27.030612+05:30] name.INFO: {"message":"this is a error message","code":401} [] []
+[2023-05-01T11:35:02.835551+05:30] name.INFO: 1 [] []
+[2023-05-01T11:35:21.414553+05:30] name.INFO: Array (     [message] => this is a error message     [code] => 401 )  [] []
+[2023-05-01T11:36:29.317355+05:30] name.ERROR: Array (     [message] => this is a error message     [code] => 401 )  [] []

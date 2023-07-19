@@ -1,0 +1,12 @@
+{
+    "name": "nag/dotenv",
+    "require": {
+        "doctrine/inflector": "2.0.*",
+        "vlucas/phpdotenv": "5.5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            
+        }
+    }
+}

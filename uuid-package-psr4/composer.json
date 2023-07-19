@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"App\\" : "App/src"
+		}
+	},
+	"require": {
+		"ramsey/uuid": "^4.2",
+		"ramsey/uuid-doctrine": "^1.8",
+		"psr/log": "^1.1"
+	}
+}

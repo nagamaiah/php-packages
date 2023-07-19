@@ -1,0 +1,12 @@
+{
+    "name" : "sample/package", 
+    "description": "php sample package",
+    "require": {
+        "dompdf/dompdf": "2.0.*"
+    },
+    "autoload": {},
+    "autoload-dev": {},
+    "config": {},
+    "scripts": {},
+    "conflict": {}
+}
